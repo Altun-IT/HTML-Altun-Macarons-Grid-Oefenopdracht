@@ -1,0 +1,59 @@
+/* Import Google Fonts */
+/* Hiermee importeer je verschillende Google Fonts die in je project worden gebruikt. */
+
+
+/* Universele selector */
+/* Deze selector zorgt ervoor dat voor alle elementen op de pagina, de marges en padding op nul worden gezet en dat de padding en borders worden meegenomen in de breedteberekening dankzij box-sizing: border-box. Dit voorkomt onverwachte ruimte rondom elementen. */
+
+
+/* Algemene stijlen voor het hele document */
+/* Hier worden de basisstijlen voor de body ingesteld. Een standaard lettertype wordt toegewezen en marges en padding worden ook op nul gezet om te zorgen voor consistente opmaak in verschillende browsers. */
+
+
+/* Navbar styling */
+/* De navigatiebalk gebruikt Flexbox om de inhoud netjes uit te lijnen. Het logo wordt naar links uitgelijnd en het menu naar rechts. */
+
+
+/* Menu styling */
+/* Hier worden de lijstitems van het navigatiemenu gestyled. Flexbox zorgt ervoor dat de items horizontaal naast elkaar worden geplaatst. */
+
+
+/* Shopping bag icon styling */
+/* Het winkelwagen-icoon wordt netjes naast de tekst uitgelijnd. */
+
+
+/* Shop grid container */
+/* Algemene Shop Styling */
+
+
+/* Product Grid Layout */
+
+
+/* Productkaart Styling */
+
+
+/* Tekst Styling binnen de producten */
+
+
+/* Sort sectie voor prijs en knoppen */
+
+
+/* Prijsweergave Styling */
+
+
+/* Winkelwagenknop Styling */
+
+
+/* Footer styling */
+/* De footer gebruikt een kleurverloop en Flexbox voor het uitlijnen van de tekst en het logo. */
+
+
+/* Inhoud van de footer */
+/* Flexbox wordt gebruikt om de tekst en het logo netjes naast elkaar te plaatsen en uit te lijnen. */
+
+
+/* Styling voor het logo in de footer */
+
+
+/* Tekst in de footer */
+
